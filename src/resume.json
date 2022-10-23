@@ -1,0 +1,180 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Kenan Selimović",
+    "label": "Programmer",
+    "picture": "fotografija_cv_round-min.png",
+    "image": "fotografija_cv_round-min.png",
+    "email": "kenanselimovic@gmail.com",
+    "phone": "(387) 64 412-1821",
+    "url": "kenanselimovic.com",
+    "summary": "I have fun building challenging systems. Focused on the outcomes, but always wary of taking shortcuts to get there. Self taught, IT Bachelors degree. Learned my craft in the world of startups, now focused on larger solutions, while keeping the startup spirit of pushing forward with accountability.",
+    "location": {
+      "address": "Azize Šaćirbegović 12",
+      "postalCode": "71000",
+      "city": "Sarajevo",
+      "countryCode": "Bosnia and Herzegovina",
+      "region": "Federation of Bosnia and Herzegovina"
+    },
+    "profiles": [
+      {
+        "network": "Linkedin",
+        "username": "Kenan Selimovic",
+        "url": "https://www.linkedin.com/in/kenan-selimovic-2a7892112/"
+      },
+      {
+        "network": "Github",
+        "username": "Ice32",
+        "url": "https://github.com/ice32"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Meta Software solutions",
+      "location": "Mostar, Bosnia and Herzegovina",
+      "description": "Full stack developer working in small teams",
+      "position": "Full stack web developer, NodeJs & React",
+      "url": "http://mss.ba",
+      "startDate": "2016-04-01",
+      "endDate": "2017-08-31",
+      "summary": "MSS is a small team of professionals doing everything needed for Startups to succeed",
+      "highlights": [
+        "Implement complex generic activity template for an activity booking project",
+        "Wrote code that was praised by the developers that came after me",
+        "Implemented challenging calendar scheduling logic"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "BEST Mostar",
+      "position": "Lecturer",
+      "url": "https://best.eu.org",
+      "startDate": "2017-04-29",
+      "endDate": "2017-04-29",
+      "summary": "Held a lecture as a part of the 'Software or Hardware!? What about both?' ",
+      "highlights": [
+        "Held a workshop - 'Connecting Flowthings to a Web application'",
+        "Teach a group of international students how to connect an IOT device to an AngularJs app"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Faculty of information technology",
+      "url": "https://www.fit.ba/",
+      "area": "Information Technology",
+      "studyType": "Bachelor",
+      "startDate": "2015-08-01",
+      "endDate": "2020-11-21",
+      "score": "8.6",
+      "courses": [
+        "Computer architecture",
+        "Discrete mathematics",
+        "Engineering mathematics",
+        "Operating systems",
+        "Computer networks",
+        "Algorithms and data structures",
+        "System and network administration",
+        "Business intelligence",
+        "Security of informational systems",
+        "Applied statistics",
+        "Databases 1&2",
+        "Software analysis and design"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Backend Development",
+      "level": "Senior",
+      "keywords": [
+        "Java",
+        "NodeJs",
+        "Networks"
+      ]
+    },
+    {
+      "name": "Frontend development",
+      "level": "Senior",
+      "keywords": [
+        "Angular",
+        "React",
+        "Javascript",
+        "HTML",
+        "CSS"
+      ]
+    },
+    {
+      "name": "Database design",
+      "level": "Senior",
+      "keywords": [
+        "Relational databases",
+        "SQL"
+      ]
+    },
+    {
+      "name": "Team leadership",
+      "level": "Medior",
+      "keywords": [
+        "Team lead",
+        "Architect"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Proficient"
+    },
+    {
+      "language": "Serbian/Bosnian/Croatian",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Wildlife",
+      "keywords": [
+        "Ferrets",
+        "Unicorns"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Erlich Bachman",
+      "reference": "It is my pleasure to recommend Richard, his performance working as a consultant for Main St. Company proved that he will be a valuable addition to any company."
+    }
+  ],
+  "projects": [
+    {
+      "name": "Freetouring.eu",
+      "description": "Schedule guided tours of Madrid",
+      "highlights": [
+        "Setup architecture and lead frontend/backend team",
+        "Wrote code that'd get praised by people that would take it over",
+        "Rewrote Ruby backend into NodeJs"
+      ],
+      "keywords": [
+        "GoogleMaps",
+        "Nodejs",
+        "Javascript"
+      ],
+      "startDate": "2016-04-01",
+      "endDate": "2017-03-31",
+      "url": "freetouring.eu",
+      "roles": [
+        "Full stack dev",
+        "Team lead"
+      ],
+      "type": "application"
+    }
+  ],
+  "meta": {
+    "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
+    "version": "v1.0.0",
+    "lastModified": "2017-12-24T15:53:00"
+  }
+}

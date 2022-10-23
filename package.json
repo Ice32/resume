@@ -1,10 +1,13 @@
 {
   "scripts": {
-    "build": "resume export assets/index.html --theme elegant"
+    "build": "cd src&&resume export ../assets/index.html --theme elegant",
+    "serve": "cd assets&&http-server",
+    "watch": "watch 'npm run build' ./src"
   },
   "dependencies": {
     "http-server": "^14.1.1",
     "jsonresume-theme-elegant": "^1.16.1",
-    "resume-cli": "^3.0.7"
+    "resume-cli": "^3.0.7",
+    "watch": "^1.0.2"
   }
 }
