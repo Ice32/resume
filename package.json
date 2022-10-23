@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "build": "resume export assets/index.html --theme elegant"
+  },
+  "dependencies": {
+    "http-server": "^14.1.1",
+    "jsonresume-theme-elegant": "^1.16.1",
+    "resume-cli": "^3.0.7"
+  }
+}
