@@ -38,7 +38,7 @@
       "url": "http://mss.ba",
       "startDate": "2016-04-01",
       "endDate": "2017-08-31",
-      "summary": "MSS is a small team of professionals doing everything needed for Startups to succeed",
+      "summary": "MSS is a small team of professionals doing everything needed for startups to succeed",
       "highlights": [
         "Implement complex generic activity template for an activity booking project",
         "Wrote code that was praised by the developers that came after me",
@@ -119,7 +119,7 @@
       "level": "Medior",
       "keywords": [
         "Team lead",
-        "Architect"
+        "Architecture"
       ]
     }
   ],
@@ -135,17 +135,25 @@
   ],
   "interests": [
     {
-      "name": "Wildlife",
+      "name": "Nature",
       "keywords": [
-        "Ferrets",
-        "Unicorns"
+        "Hiking",
+        "Biking"
+      ]
+    },
+    {
+      "name": "Self improvement",
+      "keywords": [
+        "Nutrition",
+        "Sleep",
+        "Exercise"
       ]
     }
   ],
   "references": [
     {
-      "name": "Erlich Bachman",
-      "reference": "It is my pleasure to recommend Richard, his performance working as a consultant for Main St. Company proved that he will be a valuable addition to any company."
+      "name": "David Beck",
+      "reference": "Kenan is always in search to improve his skills and share his experience with the team. He has a great dedication for his work and will deliver clean and nice code"
     }
   ],
   "projects": [
