@@ -83,7 +83,7 @@
       "url": "https://best.eu.org",
       "startDate": "2017-04-29",
       "endDate": "2017-04-29",
-      "summary": "Held a lecture as a part of the 'Software or Hardware!? What about both?' ",
+      "summary": "Held a lecture as a part of the 'Software or Hardware!? What about both?' event",
       "highlights": [
         "Held a workshop - 'Connecting Flowthings to a Web application'",
         "Teach a group of international students how to connect an IOT device to an AngularJs app"
@@ -138,7 +138,9 @@
       "keywords": [
         "Java",
         "NodeJs",
-        "Docker"
+        "Docker",
+        "Spring boot",
+        "ORM"
       ]
     },
     {
@@ -147,11 +149,11 @@
       "keywords": [
         "Angular",
         "React",
-        "Javascript",
         "Typescript",
-        "HTML",
-        "CSS",
-        "Sass"
+        "Javascript",
+        "Redux",
+        "Webpack",
+        "HTML/CSS/SASS"
       ]
     },
     {
@@ -216,10 +218,10 @@
     {
       "name": "Portiris",
       "entity": "Iriscare",
-      "description": "Belgian social security provider for Brussels region. Worked as a full-stack dev in Spring boot and Angular, also using Event sourcing, CQRS, Axon, LDAP, Cypress and Openshift, among other tools.",
+      "description": "Belgian social security provider for Brussels region. Worked as a full-stack dev in Spring boot and Angular, also using Event sourcing, CQRS, Axon, LDAP, RabbitMq, Cypress and Openshift, among other tools.",
       "highlights": [
-        "Worked with event sourcing and CQRS",
-        "Did multiple team presentations and workshops",
+        "Worked with event sourcing and microservices",
+        "Did multiple technical team presentations and workshops",
         "Setup Cypress tests"
       ],
       "keywords": [
@@ -228,7 +230,8 @@
         "Event sourcing",
         "CQRS",
         "Axon",
-        "Cypress"
+        "Cypress",
+        "Microservices"
       ],
       "startDate": "2021-05-01",
       "endDate": "2022-11-30",
