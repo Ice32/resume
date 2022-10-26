@@ -55,7 +55,7 @@
       "endDate": "2019-11-30",
       "summary": "MOP is a startup factory, building startups from ground-up and investing money in them",
       "highlights": [
-        "Went from zero to MVP in 10 workdays",
+        "Built a project from zero to production-deployed MVP in 10 workdays",
         "Got a struggling project back on track",
         "Familiarised myself with the Lean methodology"
       ]
@@ -138,7 +138,7 @@
       "keywords": [
         "Java",
         "NodeJs",
-        "Networks"
+        "Docker"
       ]
     },
     {
@@ -148,8 +148,10 @@
         "Angular",
         "React",
         "Javascript",
+        "Typescript",
         "HTML",
-        "CSS"
+        "CSS",
+        "Sass"
       ]
     },
     {
@@ -157,7 +159,9 @@
       "level": "Senior",
       "keywords": [
         "Relational databases",
-        "SQL"
+        "SQL",
+        "PostgreSQL",
+        "MySQL"
       ]
     },
     {
@@ -210,8 +214,126 @@
   ],
   "projects": [
     {
+      "name": "Portiris",
+      "entity": "Iriscare",
+      "description": "Belgian social security provider for Brussels region. Worked as a full-stack dev in Spring boot and Angular, also using Event sourcing, CQRS, Axon and Cypress, among other tools.",
+      "highlights": [
+        "Worked with event sourcing and CQRS",
+        "Did multiple team presentations and workshops",
+        "Setup Cypress tests"
+      ],
+      "keywords": [
+        "Spring Boot",
+        "Angular",
+        "Event sourcing",
+        "CQRS",
+        "Axon",
+        "Cypress"
+      ],
+      "startDate": "2021-05-01",
+      "endDate": "2022-11-30",
+      "url": "https://www.iriscare.brussels",
+      "roles": [
+        "Full stack dev"
+      ],
+      "type": "application"
+    },
+    {
+      "name": "Organitool",
+      "description": "Organisation management tool with focus on organisation mergers and reorganisations. Worked as a full-stack dev in Spring boot and Angular, also using NgRx and GoJs, among other tools.",
+      "highlights": [
+        "Served as a team lead",
+        "Implement core of the system",
+        "Organise the team and setup best practices",
+        "Have procedures be followed long after I left the team",
+        "Setup automated testing"
+      ],
+      "keywords": [
+        "Spring Boot",
+        "Angular",
+        "GoJs",
+        "NgRx"
+      ],
+      "startDate": "2020-02-16",
+      "endDate": "2021-04-30",
+      "url": "https://i-mens.organisationarchitecture.com",
+      "roles": [
+        "Full stack dev",
+        "Team lead"
+      ],
+      "type": "application",
+      "entity": "i-mens"
+    },
+    {
+      "name": "Lilipass",
+      "description": "System for organisation of public events. Worked as a full-stack dev in NodeJs and React, also using Stripe and Seats.io, among other tools.",
+      "highlights": [
+        "Served as a team lead",
+        "Rewrite ad-hoc architecture into an architecture inspired by Spring Boot",
+        "Setup automated testing",
+        "Have CTO note that I got the project back on its feet and \"they don't need to worry about it any more\"",
+        "Setup Stripe connect"
+      ],
+      "keywords": [
+        "NodeJs",
+        "React",
+        "GoogleMaps",
+        "Seats.io",
+        "Stripe"
+      ],
+      "startDate": "2017-11-01",
+      "endDate": "2019-06-30",
+      "url": "https://www.lilipass.com",
+      "roles": [
+        "Full stack dev",
+        "Team lead"
+      ],
+      "type": "application"
+    },
+    {
+      "name": "MyTamarin",
+      "description": "Tool for finding a matching nanny. Worked as a full-stack dev in NodeJs and React, also using TypeORM and Redux, among other tools.",
+      "highlights": [
+        "Go from zero to prod in 10 workdays as a single dev in team"
+      ],
+      "keywords": [
+        "Nodejs",
+        "Typescript"
+      ],
+      "startDate": "2017-09-01",
+      "endDate": "2017-10-31",
+      "url": "https://www.mytamarin.com",
+      "roles": [
+        "Full stack dev"
+      ],
+      "type": "application"
+    },
+    {
+      "name": "BeBoo - be booked",
+      "description": "Tool for offering schedulable services and appointment booking. Worked as a full-stack dev in NodeJs and React, also using Redux and Flow, among other tools.",
+      "highlights": [
+        "Setup project and architecture",
+        "Implement complex scheduling logic",
+        "Implement generic activity template"
+      ],
+      "keywords": [
+        "GoogleMaps",
+        "Nodejs",
+        "Javascript",
+        "Redux",
+        "Flow"
+      ],
+      "startDate": "2017-04-01",
+      "endDate": "2017-08-31",
+      "url": "https://mss.ba/project/beboo/",
+      "roles": [
+        "Full stack dev"
+      ],
+      "type": "application"
+    },
+    {
       "name": "Freetouring.eu",
-      "description": "Schedule guided tours of Madrid",
+      "description": "Schedule guided tours of Madrid. Worked as a full-stack dev in NodeJs and React, among other tools.",
       "highlights": [
         "Setup architecture and lead frontend/backend team",
         "Wrote code that'd get praised by people that would take it over",
