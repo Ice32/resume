@@ -31,6 +31,36 @@
   },
   "work": [
     {
+      "name": "Tacta - The art of complexity Taming",
+      "location": "Sarajevo, Bosnia and Herzegovina",
+      "description": "Full stack developer working in both small and large teams",
+      "position": "Full stack web developer, Java & Angular",
+      "url": "https://tacta.io",
+      "startDate": "2020-02-17",
+      "summary": "A software company taming complex systems using the principles of extreme programming and DDD",
+      "highlights": [
+        "Fell in love with TDD and Pair programming",
+        "Built a complex core of organisation management system",
+        "Built up a team still going strong after I left as a team lead",
+        "Familiarised myself with the DDD principles"
+      ]
+    },
+    {
+      "name": "Ministry of programming",
+      "location": "Sarajevo, Bosnia and Herzegovina",
+      "description": "Full stack developer working in small teams",
+      "position": "Full stack web developer, NodeJs & React",
+      "url": "https://mop.ba",
+      "startDate": "2017-09-01",
+      "endDate": "2019-11-30",
+      "summary": "MOP is a startup factory, building startups from ground-up and investing money in them",
+      "highlights": [
+        "Went from zero to MVP in 10 workdays",
+        "Got a struggling project back on track",
+        "Familiarised myself with the Lean methodology"
+      ]
+    },
+    {
       "name": "Meta Software solutions",
       "location": "Mostar, Bosnia and Herzegovina",
       "description": "Full stack developer working in small teams",
@@ -66,7 +96,7 @@
       "url": "https://www.fit.ba/",
       "area": "Information Technology",
       "studyType": "Bachelor",
-      "startDate": "2015-08-01",
+      "startDate": "2015-07-14",
       "endDate": "2020-11-21",
       "score": "8.6",
       "courses": [
@@ -82,6 +112,22 @@
         "Applied statistics",
         "Databases 1&2",
         "Software analysis and design"
+      ]
+    },
+    {
+      "institution": "Faculty of philosophy in Sarajevo",
+      "url": "https://ff.unsa.ba",
+      "area": "Psychology",
+      "studyType": "Bachelor",
+      "startDate": "2010-09-01",
+      "endDate": "2015-06-30",
+      "courses": [
+        "Statistics in Psychology 1&2",
+        "Methodology of experimental psychology",
+        "Methodology of non-experimental psychology",
+        "Psychometrics",
+        "Organisational psychology",
+        "Cognitive psychology"
       ]
     }
   ],
@@ -134,6 +180,12 @@
     }
   ],
   "interests": [
+    {
+      "name": "Family",
+      "keywords": [
+        "Family time"
+      ]
+    },
     {
       "name": "Nature",
       "keywords": [
