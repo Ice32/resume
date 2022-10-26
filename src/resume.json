@@ -55,7 +55,7 @@
       "endDate": "2019-11-30",
       "summary": "MOP is a startup factory, building startups from ground-up and investing money in them",
       "highlights": [
-        "Built a project from zero to production-deployed MVP in 10 workdays",
+        "Built a project from zero to production-deployed MVP in 12 workdays",
         "Got a struggling project back on track",
         "Familiarised myself with the Lean methodology"
       ]
@@ -216,7 +216,7 @@
     {
       "name": "Portiris",
       "entity": "Iriscare",
-      "description": "Belgian social security provider for Brussels region. Worked as a full-stack dev in Spring boot and Angular, also using Event sourcing, CQRS, Axon and Cypress, among other tools.",
+      "description": "Belgian social security provider for Brussels region. Worked as a full-stack dev in Spring boot and Angular, also using Event sourcing, CQRS, Axon, LDAP, Cypress and Openshift, among other tools.",
       "highlights": [
         "Worked with event sourcing and CQRS",
         "Did multiple team presentations and workshops",
@@ -240,7 +240,7 @@
     },
     {
       "name": "Organitool",
-      "description": "Organisation management tool with focus on organisation mergers and reorganisations. Worked as a full-stack dev in Spring boot and Angular, also using NgRx and GoJs, among other tools.",
+      "description": "Organisation management tool with focus on organisation mergers and reorganisations. Worked as a full-stack dev in Spring boot and Angular, also using NgRx, GoJs, Querydsl and AWS, among other tools.",
       "highlights": [
         "Served as a team lead",
         "Implement core of the system",
@@ -252,7 +252,9 @@
         "Spring Boot",
         "Angular",
         "GoJs",
-        "NgRx"
+        "NgRx",
+        "AWS",
+        "Querydsl"
       ],
       "startDate": "2020-02-16",
       "endDate": "2021-04-30",
@@ -266,7 +268,7 @@
     },
     {
       "name": "Lilipass",
-      "description": "System for organisation of public events. Worked as a full-stack dev in NodeJs and React, also using Stripe and Seats.io, among other tools.",
+      "description": "System for organisation of public events. Worked as a full-stack dev in NodeJs and React, also using Stripe, Docker, Bookshelf.js, Knex.js, JSDoc and Seats.io, among other tools.",
       "highlights": [
         "Served as a team lead",
         "Rewrite ad-hoc architecture into an architecture inspired by Spring Boot",
@@ -279,7 +281,11 @@
         "React",
         "GoogleMaps",
         "Seats.io",
-        "Stripe"
+        "Stripe",
+        "Bookshelf.js",
+        "Knex.js",
+        "Docker",
+        "JSDoc"
       ],
       "startDate": "2017-11-01",
       "endDate": "2019-06-30",
@@ -292,13 +298,16 @@
     },
     {
       "name": "MyTamarin",
-      "description": "Tool for finding a matching nanny. Worked as a full-stack dev in NodeJs and React, also using TypeORM and Redux, among other tools.",
+      "description": "Tool for finding a matching nanny. Worked as a full-stack dev in NodeJs and React, also using TypeORM, Docker and Redux, among other tools.",
       "highlights": [
-        "Go from zero to prod in 10 workdays as a single dev in team"
+        "Go from zero to prod in 12 workdays as a single dev in team"
       ],
       "keywords": [
         "Nodejs",
-        "Typescript"
+        "Typescript",
+        "TypeORM",
+        "Docker",
+        "Redux"
       ],
       "startDate": "2017-09-01",
       "endDate": "2017-10-31",
@@ -310,7 +319,7 @@
     },
     {
       "name": "BeBoo - be booked",
-      "description": "Tool for offering schedulable services and appointment booking. Worked as a full-stack dev in NodeJs and React, also using Redux and Flow, among other tools.",
+      "description": "Tool for offering schedulable services and appointment booking. Worked as a full-stack dev in NodeJs and React, also using Redux, Flow and AWS, among other tools.",
       "highlights": [
         "Setup project and architecture",
         "Implement complex scheduling logic",
@@ -321,7 +330,9 @@
         "Nodejs",
         "Javascript",
         "Redux",
-        "Flow"
+        "Flow",
+        "AWS",
+        "Linux"
       ],
       "startDate": "2017-04-01",
       "endDate": "2017-08-31",
@@ -333,7 +344,7 @@
     },
     {
       "name": "Freetouring.eu",
-      "description": "Schedule guided tours of Madrid. Worked as a full-stack dev in NodeJs and React, among other tools.",
+      "description": "Schedule guided tours of Madrid. Worked as a full-stack dev in NodeJs, React and Sequelize, among other tools.",
       "highlights": [
         "Setup architecture and lead frontend/backend team",
         "Wrote code that'd get praised by people that would take it over",
@@ -342,7 +353,8 @@
       "keywords": [
         "GoogleMaps",
         "Nodejs",
-        "Javascript"
+        "Javascript",
+        "Sequelize"
       ],
       "startDate": "2016-04-01",
       "endDate": "2017-03-31",
