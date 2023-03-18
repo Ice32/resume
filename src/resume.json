@@ -10,11 +10,8 @@
     "url": "kenanselimovic.com",
     "summary": "I have fun building challenging systems. Focused on the outcomes, but always wary of taking shortcuts to get there. Self taught, IT Bachelors degree. Learned my craft in the world of startups, now focused on larger solutions, while keeping the startup spirit of pushing forward with accountability.",
     "location": {
-      "address": "Azize Šaćirbegović 12",
-      "postalCode": "71000",
       "city": "Sarajevo",
-      "countryCode": "Bosnia and Herzegovina",
-      "region": "Federation of Bosnia and Herzegovina"
+      "countryCode": "Bosnia and Herzegovina"
     },
     "profiles": [
       {
@@ -138,8 +135,10 @@
       "keywords": [
         "Java",
         "NodeJs",
-        "Docker",
         "Spring boot",
+        "Event sourcing",
+        "CQRS",
+        "Docker",
         "ORM"
       ]
     },
