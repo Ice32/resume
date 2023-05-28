@@ -151,8 +151,8 @@
         "Typescript",
         "Javascript",
         "Redux",
-        "Webpack",
-        "HTML/CSS/SASS"
+        "Testing Library",
+        "Cypress"
       ]
     },
     {
@@ -202,7 +202,6 @@
       "name": "Self improvement",
       "keywords": [
         "Nutrition",
-        "Sleep optimization",
         "Exercise"
       ]
     }
@@ -220,7 +219,8 @@
       "description": "French beauty treatment provider. Worked as a full-stack dev in Spring boot and Angular, also using Event sourcing with EventStoreDB, CQRS and Testing library, among other tools.",
       "highlights": [
         "Worked with implementation of event sourcing using EventStoreDB",
-        "Setup frontend testing using Angular testing library"
+        "Setup frontend testing using Angular testing library and Cypress",
+        "Lead a tightly integrated team"
       ],
       "keywords": [
         "Spring Boot",
