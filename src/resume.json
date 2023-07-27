@@ -36,8 +36,8 @@
       "startDate": "2020-02-17",
       "summary": "A software company taming complex systems using the principles of extreme programming and DDD",
       "highlights": [
-        "Fell in love with TDD and Pair programming",
         "Built a complex core of organisation management system",
+        "Fell in love with TDD and Pair programming",
         "Built up a team still going strong after I left as a team lead",
         "Familiarised myself with the DDD principles"
       ]
@@ -222,9 +222,9 @@
       "entity": "Lazeo",
       "description": "French beauty treatment provider. Worked as a full-stack dev in Spring boot and Angular, also using Event sourcing with EventStoreDB, CQRS and Testing library, among other tools.",
       "highlights": [
+        "Lead a tightly integrated team",
         "Worked with implementation of event sourcing using EventStoreDB",
-        "Setup frontend testing using Angular testing library and Cypress",
-        "Lead a tightly integrated team"
+        "Setup frontend testing using Angular testing library and Cypress"
       ],
       "keywords": [
         "Spring Boot",
