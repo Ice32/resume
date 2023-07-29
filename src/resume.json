@@ -31,14 +31,14 @@
       "name": "Tacta - The art of complexity Taming",
       "location": "Sarajevo, Bosnia and Herzegovina",
       "description": "Full stack developer working in both small and large teams",
-      "position": "Software developer, Java & Angular",
+      "position": "Software developer / Team lead, Java & Angular",
       "url": "https://tacta.io",
       "startDate": "2020-02-17",
       "summary": "A software company taming complex systems using the principles of extreme programming and DDD",
       "highlights": [
+        "Lead multiple teams",
         "Built a complex core of organisation management system",
         "Fell in love with TDD and Pair programming",
-        "Built up a team still going strong after I left as a team lead",
         "Familiarised myself with the DDD principles"
       ]
     },
