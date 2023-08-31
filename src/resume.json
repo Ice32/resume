@@ -27,12 +27,25 @@
   },
   "work": [
     {
+      "name": "CAKE.com",
+      "location": "Novi Sad, Serbia",
+      "description": "Java backend developer",
+      "position": "Java developer",
+      "url": "https://cake.com",
+      "startDate": "2023-09-01",
+      "summary": "A product-based unicorn creating products that are used by millions around the world",
+      "highlights": [
+
+      ]
+    },
+    {
       "name": "Tacta - The art of complexity Taming",
       "location": "Sarajevo, Bosnia and Herzegovina",
       "description": "Full stack developer working in both small and large teams",
       "position": "Software developer / Team lead, Java & Angular",
       "url": "https://tacta.io",
       "startDate": "2020-02-17",
+      "endDate": "2023-08-31",
       "summary": "A software company taming complex systems using the principles of extreme programming and DDD",
       "highlights": [
         "Lead multiple teams",
@@ -217,6 +230,23 @@
   ],
   "projects": [
     {
+      "name": "Plaky",
+      "entity": "CAKE",
+      "description": "Task management software. Worked as a backend dev in Spring boot.",
+      "highlights": [
+      ],
+      "keywords": [
+        "Java",
+        "Spring Boot"
+      ],
+      "startDate": "2023-09-01",
+      "url": "https://plaky.com/",
+      "roles": [
+        "Backend developer"
+      ],
+      "type": "application"
+    },
+    {
       "name": "Lazeo",
       "entity": "Lazeo",
       "description": "French beauty treatment provider. Worked as a full-stack dev in Spring boot and Angular, also using Event sourcing with EventStoreDB, CQRS and Testing library, among other tools.",
@@ -234,6 +264,7 @@
         "Angular testing library"
       ],
       "startDate": "2022-11-01",
+      "endDate": "2023-08-31",
       "url": "https://www.lazeo.com/en",
       "roles": [
         "Full stack dev"
